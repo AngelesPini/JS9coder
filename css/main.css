@@ -1,0 +1,20 @@
+header {
+  background-color: bisque;
+}
+nav {
+  background-color: bisque;
+  box-shadow: 0px 5px 5px 5px rgb(167, 157, 145);
+}
+
+#contenedor-platos {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.dropdownPlatos {
+  display: grid;
+  justify-content: center;
+}
